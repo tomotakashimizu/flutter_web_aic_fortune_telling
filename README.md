@@ -1,1 +1,2 @@
 # flutter_web_aic_fortune_telling
+Flutterを用いた簡単なWebサイト
